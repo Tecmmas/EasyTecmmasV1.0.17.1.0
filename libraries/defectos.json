@@ -618,7 +618,7 @@
 		{
 			"codigo": "1.1.12.38.3",
 			"descripcion": "Mal estado, mala distribución y/o sujeción de cualquier componente del sistema eléctrico.",
-			"tipo": "B",
+			"tipo": "A",
 			"codigotecmmas": "110",
 			"publico": 0,
 			"ensenanza": 0,
